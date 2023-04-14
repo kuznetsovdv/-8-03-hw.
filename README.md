@@ -27,7 +27,7 @@ https://github.com/kuznetsovdv/kuznetsovdv/commit/87fa2bca3874989bc2f2d44f4d9e07
 
 ### Задание 2
 
-https://github.com/kuznetsovdv/kuznetsovdv/commit/7fd68ad6423e589b1a93f761fb03cb0b9c0a7568
+https://github.com/kuznetsovdv/kuznetsovdv/commit/4b2ec40574386124f02d4c2f494ed03d6da6134e
 
 ### Задание 3
 
