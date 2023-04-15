@@ -23,7 +23,7 @@
 
 ### Задание 1
 
-https://github.com/kuznetsovdv/kuznetsovdv/commit/87fa2bca3874989bc2f2d44f4d9e075f129ede19
+![image](https://user-images.githubusercontent.com/80099683/232224529-bc671107-0bff-4dad-98a3-4ca051dabdba.png)
 
 ### Задание 2
 
