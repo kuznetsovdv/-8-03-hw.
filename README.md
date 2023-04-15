@@ -38,10 +38,9 @@
 
 
 ### Задание 3
-ставил по инструкции из вашей презы, не запускается.
-ставил на хост, ошибка Unable to update deployed features for bundle: org.apache.felix.framework - 5.6.12
-при этом в логах контейнера ошибок нет, пробовал как nexus3 так и просто
-![image](https://user-images.githubusercontent.com/80099683/232245518-398f6933-e395-41e5-a182-3d8bd0c95daa.png)
+![image](https://user-images.githubusercontent.com/80099683/232247863-8f9c1b73-3a34-40ca-a2f3-cbbb27b2c657.png)
+
+как мне выдать разрешение и где эта директория? на хосте, или в контейнере?
 
 ### Задание 4
 
