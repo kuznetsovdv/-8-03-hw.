@@ -32,7 +32,10 @@
 
 ### Задание 2
 
-https://github.com/kuznetsovdv/kuznetsovdv/commit/4b2ec40574386124f02d4c2f494ed03d6da6134e
+![image](https://user-images.githubusercontent.com/80099683/232226446-99e57b7b-3aa7-4388-9faf-cc53ca6722b1.png)
+![image](https://user-images.githubusercontent.com/80099683/232226472-475150c0-99ff-467d-a99e-d80891de269e.png)
+![image](https://user-images.githubusercontent.com/80099683/232226475-b8e2cce7-e729-4827-b5eb-1fed2279dbcc.png)
+
 
 ### Задание 3
 
