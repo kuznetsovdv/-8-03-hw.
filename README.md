@@ -38,8 +38,11 @@
 
 
 ### Задание 3
+ставил по инструкции из вашей презы, не запускается.
+ставил на хост, ошибка Unable to update deployed features for bundle: org.apache.felix.framework - 5.6.12
+при этом в логах контейнера ошибок нет, пробовал как nexus3 так и просто
+![image](https://user-images.githubusercontent.com/80099683/232245518-398f6933-e395-41e5-a182-3d8bd0c95daa.png)
 
-https://github.com/kuznetsovdv/kuznetsovdv/network
 ### Задание 4
 
 `Приведите ответ в свободной форме........`
