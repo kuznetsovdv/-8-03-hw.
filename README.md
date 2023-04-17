@@ -23,7 +23,7 @@
 
 ### Задание 1
 ![image](https://user-images.githubusercontent.com/80099683/232426231-a6faa223-a35c-452d-9549-499cd71f7cbb.png)
-При попытке заригистрировать раннер получаю следующую ошибку
+При попытке зарегистрировать раннер получаю следующую ошибку
 
 ![image](https://user-images.githubusercontent.com/80099683/232460482-694199c2-d71d-48a1-ba15-f6f35c9329c7.png)
 
