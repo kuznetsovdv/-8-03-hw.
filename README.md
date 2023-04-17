@@ -31,6 +31,7 @@
 
 
 ### Задание 2
+![image](https://user-images.githubusercontent.com/80099683/232462578-69fcf2a0-c574-4d93-94f3-bec2d66a12e7.png)
 
 
 
