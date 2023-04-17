@@ -23,11 +23,7 @@
 
 ### Задание 1
 
-![image](https://user-images.githubusercontent.com/80099683/232224529-bc671107-0bff-4dad-98a3-4ca051dabdba.png)
-![image](https://user-images.githubusercontent.com/80099683/232224812-f164615d-1d27-413d-8c43-a9bae3af57f0.png)
-![image](https://user-images.githubusercontent.com/80099683/232224821-2dc4d723-366a-4e8d-9364-1e2bf9bf0117.png)
-![image](https://user-images.githubusercontent.com/80099683/232224828-0f445b3b-160a-47c5-8915-e44ae2852a5f.png)
-![image](https://user-images.githubusercontent.com/80099683/232224840-4bb44e40-48a5-4470-b356-ae3789309b68.png)
+
 
 
 ### Задание 2
