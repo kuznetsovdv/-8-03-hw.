@@ -22,11 +22,16 @@
 ---
 
 ### Задание 1
-![image](https://user-images.githubusercontent.com/80099683/232426231-a6faa223-a35c-452d-9549-499cd71f7cbb.png)
-При попытке зарегистрировать раннер получаю следующую ошибку
-
-![image](https://user-images.githubusercontent.com/80099683/232460482-694199c2-d71d-48a1-ba15-f6f35c9329c7.png)
-
+![image](https://user-images.githubusercontent.com/80099683/234279794-63396473-6456-4438-98aa-bda62eefed8f.png)
+# wget https://repo.zabbix.com/zabbix/6.4/ubuntu/pool/main/z/zabbix-release/zabbix-release_6.4-1+ubuntu22.04_all.deb
+# dpkg -i zabbix-release_6.4-1+ubuntu22.04_all.deb
+# apt update
+# apt install zabbix-server-pgsql zabbix-frontend-php php8.1-pgsql zabbix-nginx-conf zabbix-sql-scripts zabbix-agent
+# su - postgres -c 'psql --command "CREATE USER zabbix WITH PASSWORD '\'123456789\'';"'
+# su - postgres -c 'psql --command "CREATE DATABASE zabbix OWNER zabbix;"'
+# zcat /usr/share/zabbix-sql-scripts/postgresql/server.sql.gz | sudo -u zabbix psql zabbix
+# nano /etc/zabbix/zabbix_server.conf DBPassword=password
+# nano /etc/zabbix/nginx.conf listen 8080; server_name example.com;
 
 
 
