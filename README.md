@@ -35,19 +35,12 @@
 
 
 
-### Задание 2
-![image](https://user-images.githubusercontent.com/80099683/232462578-69fcf2a0-c574-4d93-94f3-bec2d66a12e7.png)
+### Задание 2+3
+![image](https://user-images.githubusercontent.com/80099683/234325410-2ba7de88-304d-4388-8e56-e3d087446efd.png)
+![image](https://user-images.githubusercontent.com/80099683/234335128-fa20ac09-ced6-44f7-ac8d-b4b010d9395f.png)
+![image](https://user-images.githubusercontent.com/80099683/234335684-dcfb73bf-bcd0-4ef0-b11c-093dc4dcacc3.png)
 
 
 
-### Задание 3
 
-### Задание 4
-
-
-
-## Дополнительные задания (со звездочкой*)
-
-
-### Задание 5
 
